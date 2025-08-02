@@ -1,4 +1,5 @@
-![Skymate Screenshot](public/Screenshot%202025-08-01%20202008.png)
+![Skymate Screenshot](public/weather.png)
+
 
 
 # React + Vite
