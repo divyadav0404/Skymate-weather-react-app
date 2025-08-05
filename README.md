@@ -1,6 +1,12 @@
 Before..
+
+
 ![Skymate Screenshot](public/weather.png)
+
+
 After addition of toggling and working on building better UI
+
+
 ..![Skymate screenshot](public/image.png)
 
 
