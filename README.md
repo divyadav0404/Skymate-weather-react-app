@@ -1,4 +1,4 @@
-Before..
+Initial webpage
 
 
 ![Skymate Screenshot](public/weather.png)
@@ -7,7 +7,7 @@ Before..
 After addition of toggling and working on building better UI
 
 
-..![Skymate screenshot](public/image.png)
+![Skymate screenshot](public/image.png)
 
 
 
