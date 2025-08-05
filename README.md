@@ -1,4 +1,5 @@
-![Skymate Screenshot](public/weather.png)
+Before..![Skymate Screenshot](public/weather.png)
+After addition of toggling and after..![Skymate screenshot](
 
 
 
