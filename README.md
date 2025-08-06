@@ -1,10 +1,12 @@
-Initial webpage
+Initial webpage 
+
+
 
 
 ![Skymate Screenshot](public/weather.png)
 
 
-After addition of toggling and working on building better UI
+After addition of toggling effect and working on building better UI , new webS looks like this.
 
 
 ![Skymate screenshot](public/image.png)
